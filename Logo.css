@@ -1,20 +1,11 @@
-.responsive {
-    max-width: 175px;
-    height: auto;
-    image-rendering: pixelated;
+.logolock{
+    background-image: url('https://i.imgur.com/BF2QgPk.png');
+    background-repeat: no-repeat;  
+    width:180px;
+    height:180px; 
+    left: 348px; 
+    top: 705px; 
+    position: fixed;   
+    display: block;
 
 }
-    .headerr h1.logoo {  margin: 7px 0 0 0; float: left;   }
- 
-    .headerr h1.logoo a {  
-
-    width: 250px; height: 49px; display: block; 
-	background: url(https://i.imgur.com/BF2QgPk.png) no-repeat 0 0;
-
-    /* the old way was including text-indent: -9999px; but the new way is as seen below */
-
-    font: 0/0 a;
-    text-shadow: none;
-    color: transparent;
-
- }
