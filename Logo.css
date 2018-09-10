@@ -1,10 +1,8 @@
 .logolock{
     background-image: url('https://i.imgur.com/BF2QgPk.png');
     background-repeat: no-repeat;  
-    width:180px;
-    height:180px; 
-    left: 348px; 
-    top: 705px; 
+    width:130px;
+    height:auto; 
     position: fixed;   
     display: block;
 
