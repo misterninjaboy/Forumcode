@@ -1,6 +1,6 @@
-.logolock{
-    background-image: url(https://i.imgur.com/BF2QgPk.png);
-    background-repeat: no-repeat;  
-    width:130px;
-    height:auto;   
+#logolock{ 
+    float: left;
+    height: 64px;
+    line-height: 64px;
+    text-align: center;
 }
