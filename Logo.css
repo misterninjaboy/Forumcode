@@ -1,9 +1,6 @@
 .logolock{
-    background-image: url('https://i.imgur.com/BF2QgPk.png');
+    background-image: url(https://i.imgur.com/BF2QgPk.png);
     background-repeat: no-repeat;  
     width:130px;
-    height:auto; 
-    position: fixed;   
-    display: block;
-
+    height:auto;   
 }
